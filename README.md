@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ambe1994
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently working as Frontend Engineer
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/ambe1994/
 
 <!---
