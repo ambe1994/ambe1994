@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ambe1994
-- 👀 I’m interested in Machine Learnign
-- 🌱 I’m currently learning Basics of Machine Learnign
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently working as Frontend Engineer
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://twitter.com/ambe1994
+- 📫 How to reach me https://www.linkedin.com/in/ambe1994/
 
 <!---
 ambe1994/ambe1994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
